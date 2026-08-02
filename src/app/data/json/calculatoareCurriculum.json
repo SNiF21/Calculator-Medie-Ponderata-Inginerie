@@ -46,7 +46,7 @@
     { "name": "Inginerie Software I", "credits": 4, "type": "Examen" },
     { "name": "Baze de date", "credits": 5, "type": "Colocviu" },
     { "name": "Proiectarea aplicatiilor WEB", "credits": 4, "type": "Colocviu" },
-    { "name": "Practica de specialitate", "credits": 2, "type": "Verificare (Proiect)" }
+    { "name": "Inginerie Software II", "credits": 2, "type": "Verificare (Proiect)" }
   ],
   "Calculatoare - Anul 3, Semestrul 2": [
     { "name": "Arhitectura Sistemelor de Calcul", "credits": 5, "type": "Examen" },
