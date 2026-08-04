@@ -1,11 +1,11 @@
 import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { AppShell } from './appShell';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [AppShell],
   templateUrl: './app.html',
-  styleUrl: './app.css',
+  styleUrls: ['./app.css'],
 })
 export class App {
   protected readonly title = signal('Calculator-Medie-Ponderata-Inginerie');
